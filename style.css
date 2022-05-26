@@ -10,8 +10,7 @@ p{
     
     border: 1px solid red;
     color: greenyellow;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 0px 100px;
 }
 body{
     background-color: grey;
