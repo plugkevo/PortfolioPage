@@ -1,5 +1,14 @@
-.header{
-    background-color: black;
-    color: white;
-    text-align: center ;
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('images/6c499b4346f56b960059abe01ca7f7e1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover ;
+}
+.header img{
+    width: 130px;
+    height: 140px;
 }
