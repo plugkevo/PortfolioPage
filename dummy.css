@@ -1,0 +1,19 @@
+img{
+    width: 200px; 
+    height: 300px;
+    border-radius: 0% 60% 0% 40% ;
+    border: 5px dotted blueviolet;
+    
+
+}
+p{
+    
+    border: 1px solid red;
+    color: greenyellow;
+    margin: 0px 100px;
+}
+body{
+    background-color: grey;
+    
+
+}
