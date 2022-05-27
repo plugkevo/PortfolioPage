@@ -7,8 +7,31 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover ;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    
 }
 .header img{
     width: 130px;
     height: 140px;
+    border-radius: 50%;
+}
+.header{
+    color: blue;
+}
+p{
+    color: white;
+}
+.span{
+    color: blue;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    height: 30vh;
+    width: 40vh;
 }
